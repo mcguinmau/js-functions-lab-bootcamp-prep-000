@@ -1,5 +1,5 @@
 // write your code below!
-var name = "Jen"
+var name = Jen;
 function happyHolidays(){
   return "Happy holidays!";
 }
